@@ -6,5 +6,7 @@ draft: falsee
 
 # 你好，hugo  
 ### 试试中文效果  
-> 我看好你
+> 中文效果  
+> English
+
 
